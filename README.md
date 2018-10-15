@@ -1,4 +1,11 @@
-# chrome_offline_game_on_esp8266
+# chrome offline game on esp8266
+
+当前更新到2.0版本
+
+请猛戳此处 v2/README.md
+
+以下是1.0版本
+
 在esp8266上面开发一款chrome浏览器离线时可玩的那款恐龙跳仙人掌的游戏。
 
 ### 原型
