@@ -2,7 +2,7 @@
 
 当前更新到2.0版本
 
-请猛戳此处 v2/README.md
+请猛戳此处 https://github.com/OpensourceBooks/chrome_offline_game_on_esp8266/blob/master/v2/README.md
 
 以下是1.0版本
 
